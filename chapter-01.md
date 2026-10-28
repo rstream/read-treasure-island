@@ -5,7 +5,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 # Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
-**Статей:** 203 · [К оглавлению](index.html)
+**Статей:** 205 · [К оглавлению](index.html)
 
 <nav class="alphabet-nav" aria-label="Переход к букве">
   <a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#j">J</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#n">N</a><a href="#o">O</a><a href="#p">P</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#u">U</a><a href="#v">V</a><a href="#w">W</a>
@@ -19,8 +19,6 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **accustomed to be obeyed** — привыкший, что ему повинуются.
 
-**address (addressing)** — обращаться к кому-либо; «Were you addressing me?» — «Вы ко мне обращаетесь?»
-
 **agreeable effect** — приятное впечатление; здесь песня такого впечатления на доктора не произвела.
 
 **all but** — все, кроме; здесь все голоса смолкли, кроме голоса доктора.
@@ -29,7 +27,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **annoyance** — досада, раздражение; также тягостное беспокойство.
 
-**apply for (applied for my wage)** — обратиться за причитающейся платой.
+**applied to him for my wage** — обратился к нему за обещанной платой.
 
 **as if it were yesterday** — как будто это было вчера.
 
@@ -65,9 +63,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **brass telescope** — подзорная труба из латуни.
 
-**break out in a song** — вдруг запеть.
+**breaking out in that old sea-song** — вдруг запев ту старую морскую песню.
 
-**brighten up** — оживиться, повеселеть.
+**brightened up** — оживился, повеселел.
 
 **bring up alongside** — подкатить вплотную, поближе; морская команда, обращённая к возчику тележки.
 
@@ -81,23 +79,25 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **call for glasses round** — потребовать выпивку для всех присутствующих.
 
+**came round** — наступило; здесь о первом числе месяца.
+
 **capstan bars** — рычаги кабестана, судового ворота для подъёма якоря; ими также задавали ритм при работе.
 
 **catch a breath of complaint** — услышать хоть малейшую жалобу.
 
-**cease (ceased)** — перестать; здесь перестать обращать внимание на песню или ходить в трактир.
+**cease coming there** — перестанут туда ходить; отец опасался, что посетители покинут трактир.
+
+**ceased to pay any particular notice** — перестали обращать особое внимание; здесь на песню капитана.
 
 **clasp-knife** — складной нож.
 
-**cliff** — прибрежный утёс, обрыв.
+**cliffs** — прибрежные утёсы, обрывы.
 
 **coarsely** — грубо, неотёсанно; здесь о речи капитана.
 
-**cock of his hat** — загнутый кверху край его шляпы.
+**cocks of his hat** — загнутые кверху края его шляпы; один из них опустился.
 
 **coltish country folk** — неловкие, неотёсанные деревенские жители; *coltish* буквально «как жеребята».
-
-**come round** — наступать, приходить вновь; здесь о первом числе месяца.
 
 **company** — посетители, люди; «Much company?» — «Много ли у вас гостей?»
 
@@ -105,7 +105,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **cove** — небольшая бухта, заливчик.
 
-**cross (crossed)** — перечить, идти наперекор; капитану осмелились возразить лишь однажды.
+**crossed** — ему перечили, шли наперекор; с капитаном такое случилось лишь однажды.
 
 **curtained door** — дверь, прикрытая занавеской.
 
@@ -119,15 +119,13 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **district** — округ, участок; здесь территория, где доктор служит мировым судьёй.
 
-**do for (had done for)** — погубить, прикончить; в песне ром и дьявол погубили остальных.
-
-**draw briskly at his pipe** — энергично затягиваться трубкой.
+**drawing briskly at his pipe** — энергично затягиваясь трубкой.
 
 **dreadful** — страшный, ужасный.
 
 **dress** — одежда, внешний вид; «made no change ... in his dress» — не менял одежду.
 
-**drink himself sleepy** — напиться до сонливости.
+**drunk himself sleepy** — напился до сонливости.
 
 **Dry Tortugas** — острова Драй-Тортугас у Флориды; в рассказах капитана — место морских приключений.
 
@@ -141,7 +139,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 <h2 id="f" class="letter-heading">F <a href="#top" aria-label="Наверх">↑</a></h2>
 
-**fancy (fancies)** — воображаемый образ, фантазия; здесь страшные видения Джима.
+**fancies** — страшные видения, фантазии Джима.
 
 **far gone in a decline** — уже тяжело больной чахоткой, почти при смерти.
 
@@ -151,9 +149,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **filthy** — грязный, нечистоплотный.
 
-**fit** — приступ, вспышка; здесь приступы властного и гневного поведения капитана.
+**fits** — приступы, вспышки; здесь властного и гневного поведения капитана.
 
-**flap (flapped)** — хлопнуть; здесь ударить ладонью по столу.
+**flapped his hand upon the table** — хлопнул ладонью по столу.
 
 **fly up in a passion** — внезапно вспылить, прийти в ярость.
 
@@ -165,7 +163,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **for to watch ships off** — чтобы наблюдать за кораблями в море; *for to* — старинный оборот со значением «чтобы».
 
-**fourpenny (piece)** — монета в четыре пенса.
+**fourpenny** — четырёхпенсовая монета.
 
 **from that day forth** — с того дня и впредь.
 
@@ -173,13 +171,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 <h2 id="g" class="letter-heading">G <a href="#top" aria-label="Наверх">↑</a></h2>
 
-**glare (glared)** — свирепо смотреть, сверлить взглядом.
+**glared at him** — свирепо смотрел на него, сверлил взглядом.
 
 **grog-shop** — питейное заведение, трактир; *grog* — спиртное, обычно ром с водой.
 
-**grumble (grumbling)** — ворчать, бурчать.
+**grumbling** — ворча, бурча.
 
 <h2 id="h" class="letter-heading">H <a href="#top" aria-label="Наверх">↑</a></h2>
+
+**had done for the rest** — погубили остальных; в песне это сделали ром и дьявол.
 
 **hamlet** — деревушка, маленькое селение.
 
@@ -189,11 +189,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **handy** — удобный, подходящий; здесь о бухте и месте для постоя.
 
-**hang round (hung round)** — слоняться, подолгу бродить поблизости.
+**hastened** — ускорили, приблизили; здесь о страхе и досаде, ускоривших смерть отца.
 
-**hasten** — ускорить, приблизить; страх и досада ускорили смерть отца.
-
-**haunt (haunted my dreams)** — преследовать во сне, не давать покоя.
+**haunted my dreams** — преследовал меня во сне, не давал покоя.
 
 **have an eye upon** — присматривать за кем-либо, держать под наблюдением.
 
@@ -205,7 +203,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **hip** — бедро, тазобедренная область; нога в кошмаре была отрезана у бедра.
 
-**hunt down (hunted down)** — выследить, разыскать и схватить.
+**hung round the cove** — слонялся у бухты, подолгу бродил поблизости.
+
+**hunted down** — выследят, разыщут и схватят; часть угрозы доктора.
 
 <h2 id="i" class="letter-heading">I <a href="#top" aria-label="Наверх">↑</a></h2>
 
@@ -215,7 +215,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **in one way** — в одном отношении; здесь капитан грозил разорить хозяев тем, что не платил за постой.
 
-**inquire (inquired)** — расспрашивать, наводить справки.
+**inquired** — расспрашивал, наводил справки о прибрежных гостиницах.
 
 **insist on** — настоять на чём-либо; отец не решался потребовать дополнительной платы.
 
@@ -227,15 +227,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 <h2 id="j" class="letter-heading">J <a href="#top" aria-label="Наверх">↑</a></h2>
 
-**join in** — присоединиться; здесь подпевать хором.
+**joining in** — присоединяясь к песне, подпевая хором.
 
 <h2 id="k" class="letter-heading">K <a href="#top" aria-label="Наверх">↑</a></h2>
 
-**keep nothing back** — ничего не утаивать.
+**keeping nothing back** — ничего не утаивая.
 
-**keep one's weather-eye open** — быть настороже, внимательно высматривать; морской оборот.
+**keep my weather-eye open** — держал бы ухо востро и высматривал одноногого моряка; морской оборот.
 
-**knuckle under** — уступить, подчиниться под давлением.
+**knuckled under** — уступил, подчинился под давлением.
 
 <h2 id="l" class="letter-heading">L <a href="#top" aria-label="Наверх">↑</a></h2>
 
@@ -243,9 +243,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **let that suffice** — пусть этого будет достаточно; доктор завершает предупреждение.
 
-**lift (treasure not yet lifted)** — забрать, вывезти; часть сокровищ ещё не поднята с острова.
+**lifted** — вывезенные; здесь о сокровищах, которые ещё не забрали с острова.
 
-**linger on the taste** — смаковать вкус, не спешить проглатывать.
+**lingering on the taste** — смакуя вкус, не спеша проглотить.
 
 **livid** — мертвенно-бледный, с синеватым оттенком; здесь о белом рубце.
 
@@ -261,15 +261,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **mail** — почтовый дилижанс; он высадил капитана у другой гостиницы.
 
-**make by the coast road for Bristol** — направляться в Бристоль по прибрежной дороге.
+**making by the coast road for Bristol** — направляясь в Бристоль по прибрежной дороге.
 
 **mate** — здесь «приятель», обращение моряка; в другом месте главы — помощник капитана.
 
 **matey** — дружище, приятель; фамильярное морское обращение.
 
-**mind nobody** — не обращать ни на кого внимания.
+**minding nobody** — не обращая ни на кого внимания.
 
-**mingle (mingled)** — смешиваться, переплетаться; мысль о сундуке смешивалась с кошмарами.
+**mingled** — переплелась; мысль о сундуке смешалась с кошмаром.
 
 **monstrous** — чудовищный, неестественный.
 
@@ -279,9 +279,11 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **neat** — опрятный, аккуратный; здесь о докторе.
 
+**never plucked up the heart** — так и не набрался смелости; отец не решался потребовать доплату.
+
 **never so much as moved** — даже не шелохнулся.
 
-**nightmare** — кошмарный сон.
+**nightmares** — кошмарные сны.
 
 **nut-brown** — смуглый, загорелый до коричневого цвета.
 
@@ -295,27 +297,27 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 <h2 id="p" class="letter-heading">P <a href="#top" aria-label="Наверх">↑</a></h2>
 
+**paid pretty dear** — дорого поплатился; Джим расплачивался за монету кошмарами.
+
 **parlour** — общая комната трактира, гостиная.
 
 **particulars** — подробности, обстоятельства; рассказчик обещает изложить историю целиком.
 
-**patch (patched)** — латать; *patches* — заплаты.
+**patched** — латал; капитан сам латал свой сюртук.
 
-**pay pretty dear** — дорого поплатиться; Джим расплачивался за монету кошмарами.
+**patches** — заплаты; к концу пребывания капитана его сюртук состоял почти из одних заплат.
 
 **personage** — особа, человек; здесь о загадочном одноногом моряке.
 
 **pigtail** — косичка из волос; здесь засмолённая матросская коса.
 
-**pin to the wall** — пригвоздить к стене; здесь угроза ножом.
+**pin the doctor to the wall** — пригвоздить доктора к стене; угроза ножом.
 
 **pipe up** — вдруг запеть, затянуть песню.
 
 **plain** — простой; здесь о человеке без особых запросов или о простых деревенских людях.
 
-**plod (plodding)** — тяжело, медленно брести.
-
-**pluck up the heart** — набраться смелости, решиться.
+**plodding** — тяжело бредя, медленно шагая к двери трактира.
 
 **powder** — пудра для волос или парика; у доктора она белоснежная.
 
@@ -331,23 +333,23 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **ragged** — огрубевший и потрескавшийся; здесь о руках моряка.
 
-**rap (rapped)** — резко постучать.
+**rapped on the door** — резко постучал в дверь.
 
 **rebuff** — резкий отпор, грубый отказ.
 
-**reel (reeled off to bed)** — шататься; здесь побрести к постели нетвёрдой, пьяной походкой.
+**reeled off to bed** — побрёл к постели шатаясь, пьяной походкой.
 
 **residence** — место проживания; здесь выбранная гостиница.
 
-**resume (resumed his seat)** — снова сесть, вернуться на своё место.
+**resumed his seat** — снова сел, вернулся на своё место.
 
 **rheumatics** — ревматизм, ревматические боли.
 
-**roar** — реветь, громко рычать.
+**roared** — рычал, ревел; здесь о грубом фырканье капитана.
 
 **roughly** — грубо, резким тоном.
 
-**rout out (routed out)** — выгнать, изгнать; доктор грозится выдворить капитана из округа.
+**routed out of this** — выдворят отсюда, из округа; часть угрозы доктора.
 
 **ruffian** — грубиян, негодяй.
 
@@ -355,7 +357,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **sabre cut** — шрам от сабельного удара.
 
-**sail before the mast** — служить рядовым матросом, не офицером.
+**sailed before the mast** — служил рядовым матросом, не офицером.
 
 **scarcely** — едва ли, вряд ли; «I need scarcely tell you» — «едва ли нужно вам рассказывать».
 
@@ -371,9 +373,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **see what you're at** — понимать, к чему ты клонишь; капитан догадывается, что нужно заплатить вперёд.
 
-**set down** — высадить пассажира; здесь из почтового дилижанса.
+**set him down** — высадил его; здесь из почтового дилижанса.
 
-**shiver (shivering)** — дрожать; посетители уходили спать, трясясь от страха.
+**shivering** — дрожа от страха; так посетители уходили спать.
 
 **signboard** — вывеска трактира.
 
@@ -385,15 +387,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **Spanish Main** — испанские владения на побережье Карибского моря; исторический район морских походов и пиратства.
 
-**spring to one's feet (sprang)** — вскочить на ноги.
+**sprang to his feet** — вскочил на ноги.
 
 **Squire** — сквайр, английский помещик; титул Трелони.
 
 **stabling** — конюшня, место для лошадей.
 
-**stare down** — подавить, запугать пристальным взглядом.
+**stared my poor father out of the room** — взглядом заставил моего бедного отца выйти из комнаты.
 
-**stare out of the room** — взглядом вынудить выйти из комнаты.
+**stare me down** — запугать меня пристальным взглядом.
 
 **stockings** — чулки.
 
@@ -405,15 +407,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 <h2 id="t" class="letter-heading">T <a href="#top" aria-label="Наверх">↑</a></h2>
 
-**take a deal more than one's head would carry** — выпить гораздо больше, чем можешь выдержать; здесь о роме.
+**taken me aside** — отвёл меня в сторону для разговора наедине.
 
-**take aside** — отвести в сторону для разговора наедине.
-
-**take off (took him off)** — унести жизнь, свести в могилу; здесь о болезни отца.
-
-**take up one's lodging** — поселиться, остановиться на постой.
-
-**take up one's pen** — взяться за перо, начать писать.
+**take up my pen** — берусь за перо, начинаю писать.
 
 **tarry** — покрытый смолой; здесь о матросской косичке.
 
@@ -423,17 +419,23 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **threshold** — порог.
 
-**throw down (threw down)** — бросить, швырнуть; здесь монеты на порог.
+**threw down** — швырнул; здесь несколько золотых монет на порог.
+
+**took a deal more rum and water than his head would carry** — выпивал гораздо больше рома с водой, чем мог выдержать.
+
+**took him off** — унесла его жизнь; здесь о болезни отца.
+
+**took up his lodging** — поселился, остановился на постой; здесь у нас в доме.
 
 **tottering voice** — дрожащий, надтреснутый голос.
 
 **trembling company** — дрожащие от страха посетители.
 
-**trundle (trundled)** — катить, везти на колёсах; здесь ручную тележку.
+**trundled the barrow** — катил ручную тележку.
 
 **tuned and broken at the capstan bars** — окрепший и сорванный от песен во время тяжёлой работы у судового кабестана; здесь о голосе моряка.
 
-**tyrannize over** — помыкать, тиранизировать.
+**tyrannized over** — ими помыкали, их запугивали; здесь о посетителях трактира.
 
 <h2 id="u" class="letter-heading">U <a href="#top" aria-label="Наверх">↑</a></h2>
 
@@ -449,16 +451,18 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **wage** — плата за работу; здесь обещанные Джиму четыре пенса в месяц.
 
-**walk the plank** — идти по доске за борт по приказу пиратов; способ казни.
+**walking the plank** — хождение по доске за борт по приказу пиратов; способ казни.
 
 **watch ships off** — наблюдать за судами в море с мыса.
 
 **well spoken of** — тот, о котором хорошо отзываются; здесь о трактире.
 
+**Were you addressing me?** — «Вы ко мне обращались?» — спрашивает доктор.
+
 **wicked** — злой, порочный; здесь о песнях и моряках из рассказов капитана.
 
-**work through that** — истратить внесённые деньги, «прожить» аванс за постой.
+**worked through that** — истрачу эти деньги; здесь внесённый вперёд аванс за постой.
 
-**wring one's hands (wringing)** — заламывать руки от тревоги и отчаяния.
+**wringing his hands** — заламывая руки от тревоги и отчаяния.
 
 [К оглавлению](index.html) · [Наверх](#top)
