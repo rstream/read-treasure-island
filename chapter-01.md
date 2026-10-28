@@ -5,11 +5,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 # Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
-**Статей:** 189 · [К оглавлению](index.html)
+**Статей:** 203 · [К оглавлению](index.html)
 
-[A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Y](#y)
+<nav class="alphabet-nav" aria-label="Переход к букве">
+  <a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#j">J</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#n">N</a><a href="#o">O</a><a href="#p">P</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#u">U</a><a href="#v">V</a><a href="#w">W</a>
+</nav>
 
-## A
+<h2 id="a" class="letter-heading">A <a href="#top" aria-label="Наверх">↑</a></h2>
+
+**a battle of looks** — поединок взглядов; доктор и капитан смотрели друг на друга, не уступая.
 
 **abominable** — ужасный, отвратительный; здесь о кошмарных видениях.
 
@@ -29,11 +33,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **as if it were yesterday** — как будто это было вчера.
 
+**as silent as a mouse** — тише мыши, совершенно молча.
+
 **assizes** — выездная сессия суда присяжных в тогдашней Англии.
 
 **at length** — наконец, в конце концов.
 
-## B
+**avoid remark** — не привлечь внимания, не вызвать замечаний; посетители пели громче, чтобы капитан не придрался.
+
+<h2 id="b" class="letter-heading">B <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **bade fair to ruin us** — грозил нас разорить; казалось, что он к этому приведёт.
 
@@ -42,6 +50,10 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **bear a chorus** — подпевать припев.
 
 **bearings of the island** — координаты, местоположение острова; рассказчик скрывает их.
+
+**before the week was out** — не успевала пройти неделя; капитан всё же отдавал монету.
+
+**be quit of** — избавиться от кого-либо; «the world will soon be quit of ...» — мир скоро избавится от негодяя.
 
 **berth** — место на судне; здесь переносно: подходящее место, где можно остановиться.
 
@@ -63,7 +75,9 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **by his own account** — по его собственным рассказам.
 
-## C
+**by this time** — к тому времени, уже тогда.
+
+<h2 id="c" class="letter-heading">C <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **call for glasses round** — потребовать выпивку для всех присутствующих.
 
@@ -83,6 +97,8 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **coltish country folk** — неловкие, неотёсанные деревенские жители; *coltish* буквально «как жеребята».
 
+**come round** — наступать, приходить вновь; здесь о первом числе месяца.
+
 **company** — посетители, люди; «Much company?» — «Много ли у вас гостей?»
 
 **connoisseur** — знаток, ценитель; капитан смакует ром словно знаток.
@@ -93,7 +109,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **curtained door** — дверь, прикрытая занавеской.
 
-## D
+<h2 id="d" class="letter-heading">D <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **decline** — чахотка или иная истощающая болезнь; здесь смертельная болезнь отца Джима.
 
@@ -102,6 +118,8 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **diabolical expressions** — дьявольские выражения лица.
 
 **district** — округ, участок; здесь территория, где доктор служит мировым судьёй.
+
+**do for (had done for)** — погубить, прикончить; в песне ром и дьявол погубили остальных.
 
 **draw briskly at his pipe** — энергично затягиваться трубкой.
 
@@ -113,7 +131,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **Dry Tortugas** — острова Драй-Тортугас у Флориды; в рассказах капитана — место морских приключений.
 
-## E
+<h2 id="e" class="letter-heading">E <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **effectual means** — действенные меры.
 
@@ -121,7 +139,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **exhausted** — истраченный; деньги, внесённые капитаном, давно кончились.
 
-## F
+<h2 id="f" class="letter-heading">F <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **fancy (fancies)** — воображаемый образ, фантазия; здесь страшные видения Джима.
 
@@ -145,13 +163,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **for the most part** — по большей части, обычно.
 
+**for to watch ships off** — чтобы наблюдать за кораблями в море; *for to* — старинный оборот со значением «чтобы».
+
 **fourpenny (piece)** — монета в четыре пенса.
 
 **from that day forth** — с того дня и впредь.
 
 **fury** — ярость, бешенство.
 
-## G
+<h2 id="g" class="letter-heading">G <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **glare (glared)** — свирепо смотреть, сверлить взглядом.
 
@@ -159,7 +179,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **grumble (grumbling)** — ворчать, бурчать.
 
-## H
+<h2 id="h" class="letter-heading">H <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **hamlet** — деревушка, маленькое селение.
 
@@ -187,21 +207,29 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **hunt down (hunted down)** — выследить, разыскать и схватить.
 
-## I
+<h2 id="i" class="letter-heading">I <a href="#top" aria-label="Наверх">↑</a></h2>
+
+**in a way** — в некотором смысле; позже в главе — «таким образом», о жесте, которым капитан требовал тишины.
 
 **incivility** — грубость, невежливое поведение.
+
+**in one way** — в одном отношении; здесь капитан грозил разорить хозяев тем, что не платил за постой.
 
 **inquire (inquired)** — расспрашивать, наводить справки.
 
 **insist on** — настоять на чём-либо; отец не решался потребовать дополнительной платы.
 
+**in the meantime** — тем временем.
+
 **in the shape of** — в виде; расплатой за монету стали кошмары.
 
-## J
+**in the year of grace** — «в лето Господне», старинная формула указания года; рассказчик оставляет последние цифры года 17.. неназванными.
+
+<h2 id="j" class="letter-heading">J <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **join in** — присоединиться; здесь подпевать хором.
 
-## K
+<h2 id="k" class="letter-heading">K <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **keep nothing back** — ничего не утаивать.
 
@@ -209,7 +237,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **knuckle under** — уступить, подчиниться под давлением.
 
-## L
+<h2 id="l" class="letter-heading">L <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **let him be** — оставить его в покое.
 
@@ -221,13 +249,13 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **livid** — мертвенно-бледный, с синеватым оттенком; здесь о белом рубце.
 
-**look back (on looking back)** — вспоминать, оглядываться на прошлое.
-
 **look in at** — заглянуть и посмотреть на кого-либо; капитан смотрел на моряка через дверь.
 
 **look out for** — высматривать, быть начеку в ожидании кого-либо.
 
-## M
+**look up** — поднять глаза, взглянуть; здесь резко и свирепо.
+
+<h2 id="m" class="letter-heading">M <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **magistrate** — мировой судья; доктор имеет и судебные полномочия.
 
@@ -247,21 +275,25 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **mought** — диалектное *might*; здесь «можете» в «You mought call me captain».
 
-## N
+<h2 id="n" class="letter-heading">N <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **neat** — опрятный, аккуратный; здесь о докторе.
+
+**never so much as moved** — даже не шелохнулся.
 
 **nightmare** — кошмарный сон.
 
 **nut-brown** — смуглый, загорелый до коричневого цвета.
 
-## O
+<h2 id="o" class="letter-heading">O <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **old salt** — бывалый моряк, «старый морской волк».
 
+**on looking back** — оглядываясь назад, вспоминая прошлое; позднее людям даже нравился страх, который внушал капитан.
+
 **overriding companion** — властный человек, подавляющий всех вокруг; здесь капитан заставляет других слушаться его.
 
-## P
+<h2 id="p" class="letter-heading">P <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **parlour** — общая комната трактира, гостиная.
 
@@ -295,11 +327,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **put up his weapon** — убрать, спрятать оружие.
 
-## Q
-
-**quit of** — избавившийся от; «the world will soon be quit of ...» — «мир скоро избавится от ...».
-
-## R
+<h2 id="r" class="letter-heading">R <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **ragged** — огрубевший и потрескавшийся; здесь о руках моряка.
 
@@ -323,7 +351,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **ruffian** — грубиян, негодяй.
 
-## S
+<h2 id="s" class="letter-heading">S <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **sabre cut** — шрам от сабельного удара.
 
@@ -375,7 +403,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **surf** — прибой.
 
-## T
+<h2 id="t" class="letter-heading">T <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **take a deal more than one's head would carry** — выпить гораздо больше, чем можешь выдержать; здесь о роме.
 
@@ -407,15 +435,17 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **tyrannize over** — помыкать, тиранизировать.
 
-## U
+<h2 id="u" class="letter-heading">U <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **under our roof** — под нашей крышей, в нашем доме.
 
-## V
+**upon my honour** — клянусь честью; доктор подкрепляет угрозу своим честным словом.
+
+<h2 id="v" class="letter-heading">V <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **villainous** — мерзкий, злодейский; здесь о тихом ругательстве капитана.
 
-## W
+<h2 id="w" class="letter-heading">W <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **wage** — плата за работу; здесь обещанные Джиму четыре пенса в месяц.
 
@@ -430,9 +460,5 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **work through that** — истратить внесённые деньги, «прожить» аванс за постой.
 
 **wring one's hands (wringing)** — заламывать руки от тревоги и отчаяния.
-
-## Y
-
-**year of grace 17_** — «в лето Господне 17..»; рассказчик намеренно не указывает последние цифры года.
 
 [К оглавлению](index.html) · [Наверх](#top)
