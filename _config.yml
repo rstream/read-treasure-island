@@ -1,0 +1,8 @@
+title: Treasure Island — англо-русские словарики
+description: Англо-русские словарики по главам книги Роберта Льюиса Стивенсона.
+markdown: kramdown
+exclude:
+  - AGENTS.md
+  - treasure-island.pdf
+  - .source
+  - .gitignore
