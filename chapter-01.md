@@ -5,7 +5,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 # Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
-**Статей:** 240 · [К оглавлению](index.html)
+**Статей:** 248 · [К оглавлению](index.html)
 
 <nav class="alphabet-nav" aria-label="Переход к букве">
   <a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#j">J</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#n">N</a><a href="#o">O</a><a href="#p">P</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#u">U</a><a href="#v">V</a><a href="#w">W</a><a href="#y">Y</a>
@@ -24,6 +24,8 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **agreeable effect** — приятное впечатление; здесь песня такого впечатления на доктора не произвела.
 
 **all but** — все, кроме; здесь все голоса смолкли, кроме голоса доктора.
+
+**all the room** — все в комнате, все присутствующие; здесь те, кто должен был услышать слова доктора.
 
 **alongside** — рядом, борт о борт; здесь в морском выражении о тележке, которую надо подкатить поближе.
 
@@ -56,6 +58,8 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **bear a chorus** — подпевать припев.
 
 **bearings of the island** — координаты, местоположение острова; рассказчик скрывает их.
+
+**because none was put** — потому что ни одного вопроса не задали; *none* заменяет «ни один вопрос», *put* здесь — «задать».
 
 **before the week was out** — не успевала пройти неделя; капитан всё же отдавал монету.
 
@@ -165,7 +169,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **filthy** — грязный, нечистоплотный.
 
-**fits** — приступы, вспышки; здесь властного и гневного поведения капитана.
+**fits** — приступы, вспышки; здесь приступы пьяного буйства, когда капитан помыкал посетителями и легко впадал в ярость.
 
 **flapped his hand upon the table** — хлопнул ладонью по столу.
 
@@ -174,6 +178,10 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **fog-horn** — туманный горн, судовой звуковой сигнал.
 
 **for dear life** — что есть силы, изо всех сил; соседи пели так от страха.
+
+**For in these fits** — ведь во время таких приступов; *for* здесь союз «ведь, поскольку», а *fits* — приступы пьяного буйства капитана.
+
+**for many evenings to come** — ещё много вечеров после того; здесь капитан продолжал молчать и в последующие вечера.
 
 **for the most part** — по большей части, обычно.
 
@@ -198,6 +206,8 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 <h2 id="h" class="letter-heading">H <a href="#top" aria-label="Наверх">↑</a></h2>
 
 **had done for the rest** — погубили остальных; в песне это сделали ром и дьявол.
+
+**had never had but the one leg** — никогда не имел больше одной ноги; *but* здесь значит «лишь, только»: у него всегда была лишь одна нога.
 
 **had none of the appearance of** — нисколько не походил на; капитан не выглядел рядовым матросом.
 
@@ -263,7 +273,7 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **keep my weather-eye open** — держал бы ухо востро и высматривал одноногого моряка; морской оборот.
 
-**keeping nothing back** — ничего не утаивая.
+**keeping nothing back** — ничего не утаивая; далее *but the bearings of the island* — «кроме местоположения острова».
 
 **knuckled under** — уступил, подчинился под давлением.
 
@@ -318,6 +328,8 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 **never plucked up the heart** — так и не набрался смелости; отец не решался потребовать доплату.
 
 **never so much as moved** — даже не шелохнулся.
+
+**never spoke with any but the neighbours** — никогда не разговаривал ни с кем, кроме соседей; *any* здесь заменяет «кто-либо», *but* значит «кроме».
 
 **nightmares** — кошмарные сны.
 
@@ -515,11 +527,15 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **walking the plank** — хождение по доске за борт по приказу пиратов; способ казни.
 
+**was not following his story** — не следила за его рассказом, не слушала внимательно; так капитан судил о посетителях.
+
 **watch ships off** — наблюдать за судами в море с мыса.
 
 **well spoken of** — тот, о котором хорошо отзываются; здесь о трактире.
 
 **Were you addressing me, sir?** — «Вы ко мне обращались, сэр?» — спрашивает доктор.
+
+**when spoken to** — когда к нему обращались; сокращённый пассивный оборот, здесь о молчаливости капитана.
 
 **whistling to himself** — насвистывая себе под нос.
 
