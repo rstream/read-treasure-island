@@ -553,4 +553,4 @@ title: Chapter I — The Old Sea-dog at the 'Admiral Benbow'
 
 **you may count** — можете быть уверены; доктор заверяет, что будет следить за капитаном.
 
-[К оглавлению](index.html) · [Наверх](#top)
+[К оглавлению](index.html) · [Глава II →](chapter-02.html) · [Наверх](#top)

@@ -12,7 +12,7 @@ title: Treasure Island — англо-русские словарики
 ## Part One. The Old Buccaneer
 
 1. [Chapter I — The Old Sea-dog at the 'Admiral Benbow'](chapter-01.html)
-2. Chapter II — Black Dog Appears and Disappears
+2. [Chapter II — Black Dog Appears and Disappears](chapter-02.html)
 3. Chapter III — The Black Spot
 4. Chapter IV — The Sea Chest
 5. Chapter V — The Last of the Blind Man
